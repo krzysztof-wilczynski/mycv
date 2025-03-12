@@ -49,3 +49,5 @@ export class UsersService {
 // Wkurwia mnie deferrowanie podpowiedzi
 // Chcę żeby neo-tree miał kolory zgodne ze stanem plików w repozytorium
 // I muszę skopiować kolory z webstorma
+// Window-picker
+// Resizing okien

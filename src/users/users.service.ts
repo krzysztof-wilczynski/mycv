@@ -47,4 +47,5 @@ export class UsersService {
 // C-q do wyświetlania dokumentacji
 // Chcę mieć lualine na szerokości całego ekranu, nie okna
 // Wkurwia mnie deferrowanie podpowiedzi
-//
+// Chcę żeby neo-tree miał kolory zgodne ze stanem plików w repozytorium
+// I muszę skopiować kolory z webstorma
